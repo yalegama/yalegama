@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yalegama
 - 👀 I’m interested in Flutter
-- 🌱 I’m Undergraduate in BSc. Computing
+- 🌱 Undergraduate in BSc. Computing
 
 <!---
 yalegama/yalegama is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
