@@ -26,8 +26,14 @@ You can click the Preview link to take a look at your changes.
 <a href="https://github.com/yalegama">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yalegama&theme=light&hide_langs_below=1" />
 </a>
-  
+ 
+ 
+ <a href="https://github.com/yalegama">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=yalegama&show_icons=true&theme=light&line_height=27" alt="yalegama's github stats"/>
+</a>
 
+ 
+ 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yalegama&show_icons=true&locale=en" alt="yalegama" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yalegama&" alt="yalegama" /></p>
