@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @yalegama
-- 👀 I’m interested in Flutter
+- 👀 I’m interested in React
 - 🌱 Undergraduate in BSc. Computing
 
 <!---
