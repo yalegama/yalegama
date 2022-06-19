@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @yalegama
-- 👀 I’m interested in React
+- 👀 I’m interested in React & Node
 - 🌱 Undergraduate in BSc. Computing
 
 <!---
