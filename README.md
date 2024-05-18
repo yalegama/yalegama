@@ -1,13 +1,13 @@
 - 👋 Hi, I’m @yalegama
 - 👀 I’m interested in React & Node
-- 🌱 Undergraduate in BSc. Computing
+- 🌱 Graduate in BSc. Computing
 
 <!---
 yalegama/yalegama is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 <h1 align="center">Hi 👋, I'm Nadun Yalegama</h1>
-<h3 align="center">Undergraduate in BSc. Computing</h3>
+<h3 align="center">Graduate in BSc. Computing</h3>
 <div align="center">
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yalegama" alt="yalegama" /></a> </p>
 </div>
