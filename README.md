@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yalegama
 - 👀 I’m interested in React & Node
-- 🌱 Graduate in BSc. Computing
+- 🌱 Graduate in London Metropolitan University, BEng (Hons) in Software Engineering
 
 <!---
 yalegama/yalegama is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
